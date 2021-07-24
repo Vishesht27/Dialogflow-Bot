@@ -1,46 +1,22 @@
-# As requested by many people over mail or linkedin.I am making stepwise Implementation playist on youtube. 
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)]
 
-Here is the link of stepwise implementation Youtube- https://bit.ly/3c0n0ss
+<h1 align="center"> Covid-19 Bot  </h1> <br>
 
-# End-to-End Covid-19 chatbot using DialogFlow,Python/Flask,MongoDb Atlas and deployed on Pivotal Cloud foundary and Telegram
-This chatbot developed using Dialoglow,python,flask,MongoDB and deployed on Telegram. search @bestcovid19_bot on telegram app
-BestCovid-19 Bot can give answers of all of your queries related to covid-19 also it can -
+<p align="center">
+  <a href="http://onelearning.study/">
+    <img alt="One Learning" title="One Learning" src="https://github.com/Vishesht27/Dialogflow-Bot/blob/main/Desktop%20-%201.png" width="450">
+  </a>
+</p>
 
-🌟🌟🌟 DialogFlow Agents,entities,Intents backup has been added you just need to do import as zip on your Agent Setting.
+<a href=""><h3 align="center">Video Demo of the whole process</h4></a>
 
-
-I have also mentioned how to test it locally on PostMan.
-
-
-1). Show you statisics based on Country,Indian States,Indian districts,Google Maps,WorldWide
+**Covid-19 Bot** has been built for [MLH Hacky-Birthday](https://organize.mlh.io/participants/events/7142-hacky-birthday-mlh) with the aim of helping community stay informed about covid-19.
 
 
-2). can send Email to user email Address.
 
+- [Introduction](#introduction)
+- [Features](#features)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
 
-3). Can show Live news
-
-
-4). Govt annoucements , videos and Images.
-
-If you like my work kindly hit 🌟🌟🌟
-
-
-How to Setup the whole system ? 
-1. Setup Pivotal Cloud foundary account and install foundary CLI to your system
-
-
-2. Setup MongoDB Atlas account
-
-
-3. Setup Dialogflow Account
-
-
-4. Download and Install Pycharm or any IDE to open my code.
-
-
-5. use PostMan to test this code locally. localhost:5000/webhook , give header and body as Raw json. (Everything mentioned inside document.)
-
-
-feel free to contact me in case of any problem reachout to me @ 'dineshraturi22@gmail.com' and Add subject-BestCovid Github Query
 
