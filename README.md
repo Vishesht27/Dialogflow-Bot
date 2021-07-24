@@ -16,7 +16,45 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Contributors](#contributors)
 - [Build Process](#build-process)
 
 
+## Introduction
+
+We have made the project to help the people deal with the covid-19 latest information using this simple chat bot
+
+
+## Features
+
+A few of the things you can do with Covid-10 Bot:
+* Show you statisics based on Country,Indian States,Indian districts,Google Maps,WorldWide
+* can send Email to user email Address.
+* Can show Live news
+* Govt annoucements , videos and Images.
+
+
+# Tech Stack
+
+Our tech stack consists of the following:
+
+* **Dialogflow** 
+* **Mongo-DB**
+* **Flask**
+* **Rapid-API**
+* **Google Cloud App Engine**
+* **Postman**
+
+
+## Build Process
+
+* **Clone** the project:
+
+```
+git clone https://github.com/Vishesht27/Dialogflow-Bot
+```
+System Setup :
+
+* Setup MongoDB Atlas account
+* Setup Dialogflow Account
+* Download and Install Pycharm or any IDE to open my code.
+* Use PostMan to test this code locally. localhost:5000/webhook , give header and body as Raw json. (Everything mentioned inside document.)
